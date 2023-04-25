@@ -4,7 +4,7 @@
 
 My name is ***Daksh Yadav***,and I am doing my ***B.Tech*** in ***Computer Science Engineering*** at ***Indian Institute of Technology Goa***.
 
-![photo](https://unsplash.com/photos/2LowviVHZ-E)
+![photo]("C:\Users\daksh\OneDrive\Pictures\Camera Roll\WhatsApp Image 2023-04-25 at 13.41.02.jpg")
 
 ## Education
 
