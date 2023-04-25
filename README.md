@@ -7,7 +7,9 @@ My name is Daksh Yadav, a B.Tech Computer Science Engineering Student at Indian 
 Profile Picture
 
 # Education
+
 Academic Year   Standard    Place
+
 2022-2026   B.Tech  CSE Indian Institute of Technology Goa
 
 # Courses @IIT Goa
