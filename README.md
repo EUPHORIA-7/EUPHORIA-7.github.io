@@ -1,16 +1,16 @@
 # DAKSH YADAV
 
-About Me
+# About Me
 
 My name is Daksh Yadav, a B.Tech Computer Science Engineering Student at Indian Institute of Technology Goa.
 
 Profile Picture
 
-Education
+# Education
+Academic Year   Standard    Place
+2022-2026   B.Tech  CSE Indian Institute of Technology Goa
 
-2022-2026	B.Tech CSE Indian Institute of Technology Goa
-
-Courses @IIT Goa
+# Courses @IIT Goa
 
     MA 101: Calculus
     MA 102: Linear Equations
@@ -18,7 +18,7 @@ Courses @IIT Goa
     CS 102: 
     EE 101: Introduction to Electrical Engineering | Dr. Arindam Bose
 
-Hobbies & Interests
+# Hobbies & Interests
 
     Reading books and articles on technology, science and philosophy
     Watching SCI-FI movies
