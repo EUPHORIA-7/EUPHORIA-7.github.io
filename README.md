@@ -2,9 +2,9 @@
 
 ## About Me
 
-My name is ***Daksh Yadav***,doing my ***B.Tech*** in ***Computer Science Engineering*** at ***Indian Institute of Technology Goa***.
+My name is ***Daksh Yadav***,and I am doing my ***B.Tech*** in ***Computer Science Engineering*** at ***Indian Institute of Technology Goa***.
 
-![Profile](https://www.freepik.com/free-photo/pink-flower-white-background_976070.htm#query=flowers&position=3&from_view=search&track=robertav1_2_sidr)
+![photo](https://unsplash.com/photos/2LowviVHZ-E)
 
 ## Education
 
