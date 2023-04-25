@@ -9,6 +9,7 @@ Profile Picture
 Education
 
 2022-2026	B.Tech CSE Indian Institute of Technology Goa
+
 Courses @IIT Goa
 
     MA 101: Calculus
