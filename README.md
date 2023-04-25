@@ -15,10 +15,10 @@ My name is ***Daksh Yadav***,doing my ***B.Tech*** in ***Computer Science Engine
 
 ## Courses @IIT Goa
 ### Spring Semester 23
-   **MA 103**: Differential Equation _Saumya Bajpai_
-   **MA 102**: Linear Equations _Kalpesh Haria_
-   **PH 102**: Physics _Santosh Kumar_
-   **CS 102**: Computer Science _Client P George_
+ +  **MA 103**: Differential Equation _Saumya Bajpai_
+ +  **MA 102**: Linear Equations _Kalpesh Haria_
+ +  **PH 102**: Physics _Santosh Kumar_
+ +  **CS 102**: Computer Science _Client P George_
 
 ## Hobbies & Interests
 
